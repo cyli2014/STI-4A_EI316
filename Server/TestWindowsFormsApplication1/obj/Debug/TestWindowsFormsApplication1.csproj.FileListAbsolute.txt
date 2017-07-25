@@ -1,0 +1,80 @@
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+c:\users\darwin\documents\visual studio 2015\Projects\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Darwin\Desktop\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Darwin\Desktop\工科创4A\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+D:\subject\4A\TestWindowsFormsApplication1(4)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\subject\4A\0527\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+D:\subject\4A\0527\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\0527\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\0527_无无线通信ver\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+D:\subject\4A\0527_无无线通信ver\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\0527_无无线通信ver\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+D:\subject\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\4A\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.MainControl.resources
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+C:\Users\nbzhw\Desktop\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
+C:\Users\Darwin\Desktop\工科创4A控制程序Code\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\bin\Debug\TestWindowsFormsApplication1.exe.config
+C:\Users\Darwin\Desktop\工科创4A控制程序Code\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.exe
+C:\Users\Darwin\Desktop\工科创4A控制程序Code\本地通信系统(server)\TestWindowsFormsApplication1\TestWindowsFormsApplication1\obj\Debug\TestWindowsFormsApplication1.pdb
